@@ -1,4 +1,4 @@
-# Machine-learing 学习记录
+# Machine-learing-record  
 ### 一、课程参考
 #### 1.李弘毅老师的机器学习  
 课程主页  
