@@ -1,4 +1,4 @@
-# Machine-learing Important-note 
+# Machine-learing-graph   
 ### Blogs
 1.[人工智能图谱](http://geek.csdn.net/news/detail/210487)  
 2.[]()  
